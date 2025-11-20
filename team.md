@@ -15,8 +15,8 @@ Head International Relations, ZHAW School of Engineering
 
 **Coordinator logistics and excursions in Switzerland**
 
-![Martina Ruf](/assets/images/martina.webp){: width="150" }  
-[**Martina Ruf**](https://www.zhaw.ch/en/ueber-uns/person/eglm)
+![Sandra Radivojevic](/assets/images/martina.webp){: width="150" }  
+[**Sandra Radivojevic**](https://www.zhaw.ch/de/ueber-uns/person/radv)
 
 Summer Schools Coordinator, International Office, ZHAW School of Engineering
 
@@ -24,7 +24,7 @@ Summer Schools Coordinator, International Office, ZHAW School of Engineering
 **Coordinator GVSU**
 
 ![Prof. Ira Woodring](/assets/images/ira.jpg){: width="150" }  
-[**Prof. Ira Woodring**](https://www.gvsu.edu/computing/woodring-ira-71.htm)
+[**Prof. Ira Woodring**](https://www.gvsu.edu/computing/woodring-ira-64)
 
 Lecturer Computer Science Department, GVSU
 
@@ -59,14 +59,14 @@ Programme Director Data Sciences
 
 ![Dr.Denton Bobeldyk](assets/images/bobeldyk.jpg){: width="150" }
 
-[**Dr. Denton Bobeldyk**](https://www.gvsu.edu/computing/bobeldyk-denton-20.htm)
+[**Dr. Denton Bobeldyk**](https://www.gvsu.edu/computing/bobeldyk-denton-149)
 
 Lecturer on pattern recognition, machine learning, artificial intelligence and biometrics at GVSU.
 
 **Lecturer of week 4 at GVSU on "Information Visualization"**
 
 ![Prof. Ira Woodring](/assets/images/ira.jpg){: width="150" }  
-[**Prof. Ira Woodring**](https://www.gvsu.edu/computing/woodring-ira-71.htm)
+[**Prof. Ira Woodring**](https://www.gvsu.edu/computing/woodring-ira-64)
 
 Lecturer Computer Science Department, GVSU
 
