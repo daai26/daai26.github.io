@@ -6,6 +6,7 @@ permalink: /faq/
 
 
 # Logistical Questions
+
 **Where will the students be staying?**
 
 In Switzerland, the GVSU students will stay at the <a href="https://depot195.ch" target="_blank" rel="noopener noreferrer">Hostel Depot 195</a> in Winterthur, a 10 minutes walk from the ZHAW SoE campus.
