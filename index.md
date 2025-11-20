@@ -5,7 +5,7 @@
 layout: home
 ---
 <div>
-    <img src="/assets/images/ZHAW_Logo.png" alt="ZHAW Logo" width="auto" height="100" style="margin-right: 20px;margin-bottom: 20px;">
+    <img src="/assets/images/zhaw_rgb_logo_zhaw_blau.png" alt="ZHAW Logo" width="auto" height="100" style="margin-right: 20px;margin-bottom: 20px;">
     <img src="/assets/images/GVSU_Logo.png" alt="GVSU Logo" width="auto" height="100" style="margin-bottom: 20px;">
 </div>
 
