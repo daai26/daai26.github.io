@@ -23,7 +23,7 @@ Summer Schools Coordinator, International Office, ZHAW School of Engineering
 
 **Coordinator GVSU**
 
-![Prof. Ira Woodring](/assets/images/ira.jpg){: width="150" }  
+![Prof. Ira Woodring](/assets/images/Ira Woodring.png){: width="150" }  
 [**Prof. Ira Woodring**](https://www.gvsu.edu/computing/woodring-ira-64)
 
 Lecturer Computer Science Department, GVSU
