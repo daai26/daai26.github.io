@@ -10,7 +10,7 @@ permalink: /faq/
 **Where will the students be staying?**
 
 In Switzerland, the GVSU students will stay at the <a href="https://depot195.ch" target="_blank" rel="noopener noreferrer">Hostel Depot 195</a> in Winterthur, a 10 minutes walk from the ZHAW SoE campus.
-In the USA, the ZHAW students will be staying on campus at the Grand Valley State University (Campus Allendale), see [here](https://grandvalleystate.university-tour.com/virtual-tour/main-campus#Murray%20and%20Van%20Steeland%20Apartments) and <a href="https://wwww.gvsu.edu/housing/)" target="_blank" rel="noopener noreferrer">here</a>
+In the USA, the ZHAW students will be staying on campus at the Grand Valley State University (Campus Allendale), see [here](https://grandvalleystate.university-tour.com/virtual-tour/main-campus#Murray%20and%20Van%20Steeland%20Apartments) and <a href="https://www.gvsu.edu/housing/)" target="_blank" rel="noopener noreferrer">here</a>
 
 **How is the flight booking handled?**
 
