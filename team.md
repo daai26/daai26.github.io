@@ -15,7 +15,7 @@ Head International Relations, ZHAW School of Engineering
 
 **Coordinator logistics and excursions in Switzerland**
 
-![Sandra Radivojevic](/assets/images/martina.webp){: width="150" }  
+![Sandra Radivojevic](/assets/images/Bild radv.jpg){: width="150" }  
 [**Sandra Radivojevic**](https://www.zhaw.ch/de/ueber-uns/person/radv)
 
 Summer Schools Coordinator, International Office, ZHAW School of Engineering
