@@ -65,7 +65,7 @@ Lecturer on pattern recognition, machine learning, artificial intelligence and b
 
 **Lecturer of week 4 at GVSU on "Information Visualization"**
 
-![Prof. Ira Woodring](/assets/images/ira.jpg){: width="150" }  
+![Prof. Ira Woodring](/assets/images/Ira Woodring.png){: width="150" }  
 [**Prof. Ira Woodring**](https://www.gvsu.edu/computing/woodring-ira-64)
 
 Lecturer Computer Science Department, GVSU
