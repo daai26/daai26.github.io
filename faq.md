@@ -7,6 +7,7 @@ permalink: /faq/
 
 # Logistical Questions
 
+
 **Where will the students be staying?**
 
 In Switzerland, the GVSU students will stay at the <a href="https://depot195.ch" target="_blank" rel="noopener noreferrer">Hostel Depot 195</a> in Winterthur, a 10 minutes walk from the ZHAW SoE campus.
@@ -36,6 +37,7 @@ Yes, this is an integral part of the curriculum and team building.
 Do you have additional questions to be clarified, which are not covered here? Do not hesitate to reach out to Patricia Heuberger at [patricia.heuberger@zhaw.ch](patricia.heuberger@zhaw.ch).
 
 # Content Questions
+
 
 **Do I need to prepare content-wise for the summer school?**
 
