@@ -9,14 +9,14 @@ permalink: /team/
 **Overall Coordinator ZHAW SoE**
 
 ![Patricia Heuberger](/assets/images/patricia.webp){: width="150" }  
-[**Patricia Heuberger**](https://www.zhaw.ch/en/about-us/person/heug/)
+[**Patricia Heuberger**](https://www.zhaw.ch/en/about-us/person/heug)
 
 Head International Relations, ZHAW School of Engineering
 
 **Coordinator logistics and excursions in Switzerland**
 
 ![Sandra Radivojevic](/assets/images/Bild radv.jpg){: width="150" }  
-[**Sandra Radivojevic**](https://www.zhaw.ch/de/ueber-uns/person/radv)
+[**Sandra Radivojevic**](https://www.zhaw.ch/en/about-us/person/radv)
 
 Summer Schools Coordinator, International Office, ZHAW School of Engineering
 
