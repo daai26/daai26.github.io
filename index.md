@@ -15,7 +15,8 @@ layout: home
 
 **Location:** 2 weeks on ZHAW School of Engineering campus, Switzerland (28 June-11 July), <br> 2 weeks on Grand Valley State University campus, USA (12 July–25 July)
 
-**Collaboration:** [ZHAW School of Engineering](https://www.zhaw.ch/en/engineering/) and [Grand Valley State University (GVSU)](https://www.gvsu.edu/engineering/)
+**Collaboration:** [ZHAW School of Engineering](https://www.zhaw.ch/en/engineering/) <a href="https://www.zhaw.ch/en/engineering/" target="_blank" rel="noopener noreferrer">ZHAW School of Engineering</a>
+and [Grand Valley State University (GVSU)](https://www.gvsu.edu/engineering/)
 
 **Eligible Study Programmes at ZHAW School of Engineering:**
 
