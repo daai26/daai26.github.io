@@ -31,7 +31,7 @@ Full-time and part-time students are eligible to participate
 **Eligible Term Level:**
 
 Completed 2nd year/4th semester (full-time students) and completed 3rd year/6th semester 
-(part-time students)For DS and IT part-time studies, it is also possible to participate after the 2nd
+(part-time students). For DS and IT part-time studies, it is also possible to participate after the 2nd
 year/ 4th semester after consultation with their respective programme directors.
 
 **ECTS credits:** 6 ECTS will be awarded for the summer school and booked on the following semester
