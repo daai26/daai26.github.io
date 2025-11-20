@@ -38,9 +38,7 @@ year/ 4th semester after consultation with their respective programme directors.
 
 **Costs:** 2'700 - 3'200 CHF (depends on the number of participants and includes fee, boarding and flight costs)
 
-**Registration Deadline:**
-
-13th February 2026
+**Registration Deadline:** 13th February 2026
 
 **Detailed information and registration for ZHAW students:**
 
