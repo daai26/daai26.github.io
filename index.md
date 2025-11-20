@@ -17,7 +17,6 @@ layout: home
 
 **Collaboration:** <a href="https://www.zhaw.ch/en/engineering/" target="_blank" rel="noopener noreferrer">ZHAW School of Engineering</a>
 and <a href="https://www.gvsu.edu/engineering/" target="_blank" rel="noopener noreferrer">Grand Valley State University (GVSU)</a>
- [Grand Valley State University (GVSU)](https://www.gvsu.edu/engineering/)
 
 **Eligible Study Programmes at ZHAW School of Engineering:**
 
