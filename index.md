@@ -42,9 +42,7 @@ year/ 4th semester after consultation with their respective programme directors.
 
 **Detailed information and registration for ZHAW students:**
 
-On the Intranet
-
-[Summer School 2026 information and registration](https://intra.zhaw.ch/departemente/school-of-engineering/international/summer-schools/)
+On the Intranet [Summer School 2026 information and registration](https://intra.zhaw.ch/departemente/school-of-engineering/international/summer-schools/)
 
 Have a look at the [Informationsheet](assets/images/Infosheet_GVSU Summer School_2026_.pdf)
 
