@@ -11,7 +11,7 @@ layout: home
 
 # Summer School 2026 on Data Analytics and Artificial Intelligence 
 
-**Dates:** 28 June – 25 July 2026
+**Dates:** 29 June – 25 July 2026
 
 **Location:** 2 weeks on ZHAW School of Engineering campus, Switzerland (28 June-11 July), <br> 2 weeks on Grand Valley State University campus, USA (12 July–25 July)
 
