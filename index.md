@@ -42,7 +42,7 @@ year/ 4th semester after consultation with their respective programme directors.
 
 **Application Form and Further Information:**
 
-Application Form assets/images/Anmeldeformular_Summer School_DAAI_2026.docx
+Application Form [assets/images/Anmeldeformular_Summer School_DAAI_2026.docx](https://github.com/daai26/daai26.github.io/blob/main/assets/images/Anmeldeformular_Summer%20School_DAAI_2026.docx)
 
 On the Intranet <a href="https://intra.zhaw.ch/departemente/school-of-engineering/international/summer-schools" target="_blank" rel="noopener noreferrer">Summer School 2026 information and registration</a>
 
