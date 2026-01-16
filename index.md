@@ -40,7 +40,9 @@ year/ 4th semester after consultation with their respective programme directors.
 
 **Registration Deadline:** 20th February 2026
 
-**Detailed information and registration for ZHAW students:**
+**Application Form and Further Information:**
+
+
 
 On the Intranet <a href="https://intra.zhaw.ch/departemente/school-of-engineering/international/summer-schools" target="_blank" rel="noopener noreferrer">Summer School 2026 information and registration</a>
 
