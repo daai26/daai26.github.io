@@ -14,7 +14,7 @@ English Level B2 is compulsory.
 
 ## Program structure 
 During the mornings, you will receive inputs and lectures, followed by structured exercises in a lab. In the afternoon you will work in teams on a challenge /task as project work.
-The project work will last for the entire duration of teh summer school, at ZHAW as well as at GVSU.
+The project work will last for the entire duration of the summer school, at ZHAW as well as at GVSU.
 
 Topical and touristic excursion complement the academic curriculum.
 
